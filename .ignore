@@ -1,0 +1,10 @@
+.env
+.devcontainer
+requirements.text
+*.sw*
+.vscode/
+/dist
+*.log
+logs
+node_modules/
+.py
