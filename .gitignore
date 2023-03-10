@@ -3,6 +3,7 @@ notebooks/cifar_net.pth
 .ipynb_checkpoints/
 notebooks/.env.text
 notebooks/.env
+notebooks/config.py
 .env
 .devcontainer
 *.sw*
