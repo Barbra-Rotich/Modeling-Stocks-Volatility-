@@ -139,7 +139,7 @@ def get_prediction(request: PredictIn):
         response["forecast"]= prediction
 
         # Add `"message"` key to `response`
-        response["message"]= ""
+        response["message"]= "Done"
 
     # Create except block
     except Exception as e:    
