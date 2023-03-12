@@ -2,7 +2,7 @@
 
 Hello 👋, welcome to this repo!✨ 
 
-In this project, I got data from the AlphaVantage API, stored it in aN SQL database, built and trained a GARCH model to predict volatility, and created my own API to serve predictions from my model.  
+In this project, I got data from the AlphaVantage API, stored it in an SQL database, built and trained a GARCH model to predict volatility, and created my own API to serve predictions from my model.  
 
 
 
